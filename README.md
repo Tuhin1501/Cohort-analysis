@@ -1,1 +1,5 @@
 # Cohort-analysis
+
+You own a company selling office supplies like printer toner online, to office managers. Approximately 4 months ago you ran a test on a page on your site asking users to register and encouraging them to purchase toner. There were three variants of the page, A, B & C and based on which page the user saw they were then moved into different cohorts of the same name. The data shows what information the user provided while registering and their purchasing behavior in the subsequent months. Assume the cost of toner is always the same and all users who saw the page signed up,although not always providing the same level of information. Start by plotting the data in any way you think is useful and use these graphs to justify your answers to the following questions. 
+2.1. If the goal of the experiment was to sell more toner, which variant (A, B or C) will you pick as the winner? Justify your answer 
+2.2. Can you identify any interesting patterns in the information provided or purchasing behavior of the cohorts? Do you have any theories that could explain these patterns?
